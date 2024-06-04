@@ -1,4 +1,3 @@
-import os
 from crewai import Crew
 
 from agents import researcher, writer
